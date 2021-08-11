@@ -1,3 +1,3 @@
-### eTalent image files
+### agtech  image files
 
-logos etc.
+icons, logos etc.
